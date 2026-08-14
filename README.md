@@ -1,69 +1,51 @@
-Healthcare Pharmacy Sales Dashboard
+# Healthcare Pharmacy Sales Dashboard
 
-Overview
+## Overview
 
 An interactive Power BI dashboard designed to analyze pharmacy sales performance across products, categories, cities, and time.
 
-Tools & Technologies
+## Tools & Technologies
 
-.Power BI
+- Power BI
+- DAX
+- SQL
+- Data Modeling
+- Data Visualization
 
-.DAX
+## Dashboard Features
 
-.SQL
+- Total Revenue
+- Total Orders
+- Total Units Sold
+- Average Order Value
+- Revenue Growth %
+- Monthly Revenue Trend
+- Revenue by Product
+- Revenue by Category
+- Revenue by City
+- Interactive Category Slicer
 
-.Data Modeling
-
-.Data Visualization
-
-Dashboard Features
-
-.Total Revenue
-
-.Total Orders
-
-.Total Units Sold
-
-.Average Order Value
-
-.Revenue Growth %
-
-.Monthly Revenue Trend
-
-.Revenue by Product
-
-.Revenue by Category
-
-.Revenue by City
-
-.Interactive Category Slicer
-
-Data Model
+## Data Model
 
 The project uses three main tables:
 
-.Sales
-
-.Customer
-
-.Product
+- Sales
+- Customer
+- Product
 
 Relationships were created to connect sales transactions with customer and product information.
 
-Key Insights
+## Key Insights
 
-.Top Revenue Product: Salbutamol Inhaler
+- Top Revenue Product: Salbutamol Inhaler
+- Top Revenue Category: Antibiotic
+- Top Revenue City: Cologne
+- Revenue Growth: 11.83%
 
-.Top Revenue Category: Antibiotic
-
-.Top Revenue City: Cologne
-
-.Revenue Growth: 11.83%
-
-Project Goal
+## Project Goal
 
 The goal of this project is to demonstrate practical skills in Power BI dashboard development, data modeling, DAX measures, interactive filtering, and business-oriented data analysis.
 
-Portfolio Focus
+## Portfolio Focus
 
 This project was developed as part of a practical Data Analytics / Business Intelligence portfolio, with a focus on transforming sales data into actionable business insights.
