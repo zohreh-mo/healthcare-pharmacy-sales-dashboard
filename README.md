@@ -6,59 +6,59 @@ An interactive Power BI dashboard designed to analyze pharmacy sales performance
 
 Tools & Technologies
 
-Power BI
+.Power BI
 
-DAX
+.DAX
 
-SQL
+.SQL
 
-Data Modeling
+.Data Modeling
 
-Data Visualization
+.Data Visualization
 
 Dashboard Features
 
-Total Revenue
+.Total Revenue
 
-Total Orders
+.Total Orders
 
-Total Units Sold
+.Total Units Sold
 
-Average Order Value
+.Average Order Value
 
-Revenue Growth %
+.Revenue Growth %
 
-Monthly Revenue Trend
+.Monthly Revenue Trend
 
-Revenue by Product
+.Revenue by Product
 
-Revenue by Category
+.Revenue by Category
 
-Revenue by City
+.Revenue by City
 
-Interactive Category Slicer
+.Interactive Category Slicer
 
 Data Model
 
 The project uses three main tables:
 
-Sales
+.Sales
 
-Customer
+.Customer
 
-Product
+.Product
 
 Relationships were created to connect sales transactions with customer and product information.
 
 Key Insights
 
-Top Revenue Product: Salbutamol Inhaler
+.Top Revenue Product: Salbutamol Inhaler
 
-Top Revenue Category: Antibiotic
+.Top Revenue Category: Antibiotic
 
-Top Revenue City: Cologne
+.Top Revenue City: Cologne
 
-Revenue Growth: 11.83%
+.Revenue Growth: 11.83%
 
 Project Goal
 
