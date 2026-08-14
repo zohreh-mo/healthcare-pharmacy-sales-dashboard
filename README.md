@@ -8,6 +8,10 @@ The goal is to transform structured sales data into meaningful business insights
 
 This project was developed as a Data Analyst / BI portfolio project.
 
+## 📊 Dashboard Preview
+
+![Healthcare Pharmacy Sales Dashboard](Dashboard.png)
+
 ---
 
 🏥 Business Context
