@@ -1,51 +1,136 @@
-# Healthcare Pharmacy Sales Dashboard
+Healthcare Pharmacy Sales Dashboard
 
-## Overview
+📊 Project Overview
 
-An interactive Power BI dashboard designed to analyze pharmacy sales performance across products, categories, cities, and time.
+This project demonstrates a Business Intelligence solution for analyzing pharmacy sales data using SQL Server and Microsoft Power BI.
 
-## Tools & Technologies
+The goal is to transform structured sales data into meaningful business insights through data preparation, data modeling, KPI analysis, and interactive visualization.
 
-- Power BI
+This project was developed as a Data Analyst / BI portfolio project.
+
+---
+
+🏥 Business Context
+
+The project is based on a synthetic pharmacy sales scenario.
+
+The analysis focuses on:
+
+- Sales performance
+- Revenue trends
+- Product performance
+- Customer behavior
+- Business KPIs
+
+The dashboard is designed to support data-driven business decision-making.
+
+«Data Privacy: The dataset is synthetic sample data. No real patient, pharmacy, or confidential healthcare information is included.»
+
+---
+
+🛠️ Tools & Technologies
+
+- SQL Server
+- Microsoft Power BI
 - DAX
-- SQL
 - Data Modeling
 - Data Visualization
 
-## Dashboard Features
+---
 
-- Total Revenue
-- Total Orders
-- Total Units Sold
-- Average Order Value
-- Revenue Growth %
-- Monthly Revenue Trend
-- Revenue by Product
-- Revenue by Category
-- Revenue by City
-- Interactive Category Slicer
+🗄️ Database
 
-## Data Model
+Database Name
 
-The project uses three main tables:
+"HealthcarePharmacyBI"
 
-- Sales
-- Customer
-- Product
+Main Tables
 
-Relationships were created to connect sales transactions with customer and product information.
+Customers
 
-## Key Insights
+- Customer ID
+- City
+- Customer Type
 
-- Top Revenue Product: Salbutamol Inhaler
-- Top Revenue Category: Antibiotic
-- Top Revenue City: Cologne
-- Revenue Growth: 11.83%
+Products
 
-## Project Goal
+- Product ID
+- Product Name
+- Category
+- Unit Price
+- Supplier
 
-The goal of this project is to demonstrate practical skills in Power BI dashboard development, data modeling, DAX measures, interactive filtering, and business-oriented data analysis.
+Sales
 
-## Portfolio Focus
+- Sale ID
+- Sale Date
+- Customer ID
+- Product ID
+- Quantity
+- Prescription Type
+- Unit Price
+- Revenue
 
-This project was developed as part of a practical Data Analytics / Business Intelligence portfolio, with a focus on transforming sales data into actionable business insights.
+A complete SQL setup script is included in this repository.
+
+---
+
+📈 Power BI Dashboard
+
+The dashboard provides an interactive overview of pharmacy sales performance.
+
+Key Features
+
+- Total Sales KPI
+- Revenue KPI
+- Sales Trend Analysis
+- Product Performance
+- Customer Analysis
+- Interactive Filters
+- Business-focused Visualizations
+
+---
+
+💡 Business Questions
+
+The dashboard helps answer questions such as:
+
+- Which products generate the highest revenue?
+- How does sales performance change over time?
+- Which customer types contribute most to sales?
+- Which products and categories perform best?
+- What are the main sales trends?
+
+---
+
+📁 Project Structure
+
+HealthcarePharmacyBI/
+│
+├── HealthcarePharmacyBI_Setup.sql
+├── HealthcarePharmacyBI.pbix
+├── Dashboard.png
+└── README.md
+
+---
+
+🎯 Key Skills Demonstrated
+
+- SQL database creation and data preparation
+- Relational data modeling
+- Data analysis
+- Power BI dashboard development
+- DAX and KPI development
+- Data visualization
+- Business-oriented analytical thinking
+- Healthcare IT domain understanding
+
+---
+
+👩‍💻 Author
+
+Zohreh Hokmabadi
+
+M.Sc. Computer Engineering – Software
+
+Aspiring Data Analyst | Healthcare IT | Business Intelligence
