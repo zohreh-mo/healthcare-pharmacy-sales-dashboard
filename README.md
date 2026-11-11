@@ -10,7 +10,7 @@ This project was developed as a Data Analyst / BI portfolio project.
 
 ## 📊 Dashboard Preview
 
-![Healthcare Pharmacy Sales Dashboard](Dashboard.png)
+![Healthcare Pharmacy Sales Dashboard](Healthcare_Pharmacy_Sales_Dashboard.PNG)
 
 ---
 
